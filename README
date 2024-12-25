@@ -1,0 +1,12 @@
+1001  cdk --version
+ 1002  cdk init app --language typescript
+ 1003  cdk bootstrap
+ 1004  clear
+ 1005  cdk bootstrap
+ 1006  cdk bootstrap
+ 1007  npm run build
+ 1008  cdk list
+ 1009  cdk list
+ 1010  cdk synth
+ 1011  cdk deploy
+ 1012  cdk destroy
